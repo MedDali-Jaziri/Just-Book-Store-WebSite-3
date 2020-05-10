@@ -17,8 +17,8 @@ The tools necessary to successfully install are
  If from your virtual machines have the same ip address 192.168.56.20 you should make this steps:<br>
 
 On linux Desktop <br>
-  1-git clone https://github.com/MedDali-Jaziri/Just-Book-Store-WebSite-3.git<br>
-  2-cd Just-Book-Store-WebSite-3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  1-git clone https://github.com/MedDali-Jaziri/Just-Book-Store-WebSite-3.git<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  2-cd Just-Book-Store-WebSite-3<br>
 
   =>Lancer un serveur apache <br>
   3- ./ScriptMainAPACHE.sh <br>
