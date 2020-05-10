@@ -1,18 +1,32 @@
-# Just-Book-Store-WebSite-3
+# Just-Book-Store-WebSite-3-LAMP-3-tiers
 
-Si de la case vos machine ont le meme address ip 192.168.56.20<br>
+JustBook Web Site carried out by Mohamed Ali Jaziri this project was carried out by php. For more information you must watch all the video decription for understand the demo for this WebSite in my Youtube channel .
+
+
+<h3>How you can use this application</h3>
+The tools necessary to successfully install are
+<ul>
+  <li>Virtual machine Linux server contains Apache2</li>
+  <li>Virtual machine Linux server contains MYSQL</li>
+  <li>Virtual machine Linux server contains PHP </li>
+  <li>Linux Desktop </li>
+  <li>The file of JustBook Store Web Site</li>
+ </ul>
+ 
+<h3>The steps required to install this project</h3>
+ If from your virtual machines have the same ip address 192.168.56.20 you should make this steps:<br>
 
 On linux Desktop <br>
-1-git clone https://github.com/MedDali-Jaziri/Just-Book-Store-WebSite-3.git<br>
-2-cd Just-Book-Store-WebSite-3<br>
+  1-git clone https://github.com/MedDali-Jaziri/Just-Book-Store-WebSite-3.git<br>
+  2-cd Just-Book-Store-WebSite-3<br>
 
-==>Lancer un serveur apache <br>
-3- ./ScriptMainAPACHE.sh <br>
-  The terminale of server Apache was open automatically:<br>
-    3.1- cd ServerAPACHE/<br>
-    3.2- ./ScriptConfigurationAPACHE.sh<br>
-        ==>Modfier votre nom de la machine : jaziri-apache<br>
-        ==>Modifier une address ip de votre machine : 192.168.56.20 to 192.168.56.40<br>
+  =>Lancer un serveur apache <br>
+  3- ./ScriptMainAPACHE.sh <br>
+    The terminale of server Apache was open automatically:<br>
+      3.1- cd ServerAPACHE/<br>
+      3.2- ./ScriptConfigurationAPACHE.sh<br>
+          =>Change your machine name : jaziri-apache<br>
+          =>Modify an ip address of your machine : 192.168.56.20 to 192.168.56.40<br>
         
 ==>Lancer un serveur mysql <br>
 4- ./ScriptMainMYSQL.sh <br>
