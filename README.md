@@ -1,6 +1,6 @@
 # Just-Book-Store-WebSite-3-LAMP-3-tiers
 
-&nbsp;&nbsp;&nbsp;JustBook Web Site carried out by Mohamed Ali Jaziri this project was carried out by php. For more information you must watch all the video decription for understand the demo for this WebSite in my Youtube channel https://www.youtube.com/watch?v=dyL1FHwxQCs.
+&nbsp;&nbsp;&nbsp;JustBook Web Site carried out by Mohamed Ali Jaziri this project was carried out by php.
 
 
 <h3>How you can use this application</h3>
